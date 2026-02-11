@@ -1,5 +1,5 @@
 {
-  "name": "CareerHub Internal",
-  "description": "A high-performance internal job board featuring CRUD operations for HR and department leads, with AI-powered job description polishing using Gemini.",
+  "name": "Internal Job Board",
+  "description": "Enterprise-grade internal job board for HR and management with persistent storage and AI features.",
   "requestFramePermissions": []
 }
